@@ -13,7 +13,7 @@
 - Roll No: 23DCS125
 - Course: B.Tech CSE (5th Sem)
 
-#### Team Member-1
+#### Team Member-2
 - Name: Dhvanil Desai
 - Roll No: D24DCS157
 - Course: B.Tech CSE (5th Sem)
