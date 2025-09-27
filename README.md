@@ -1,18 +1,19 @@
 #  Library Management System (Books + Borrowing)
 
 ##  Team Details
-## Team Name 
+#### Team Name 
 #### WebWizards 2.0
 #### Team Leader
 - Name: Dhyey Dave
 - Roll No: 23DCS019
 - Course: B.Tech CSE (5th Sem)
 
-#### Team Members
+#### Team Member-1
 - Name: Shrimali Bhargav Narendrabhai
 - Roll No: 23DCS125
 - Course: B.Tech CSE (5th Sem)
 
+#### Team Member-1
 - Name: Dhvanil Desai
 - Roll No: D24DCS157
 - Course: B.Tech CSE (5th Sem)
