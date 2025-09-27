@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Panel</title>
+</head>
+<body>
+    <h2>Manage Books</h2>
+    <form method="POST">
+        <input type="text" name="title" placeholder="Book Title" required>
+        <input type="text" name="author" placeholder="Author" required>
+        <button type="submit">Add Book</button>
+    </form>
+    <h3>Books List</h3>
+    <ul>
+        {% for book in books %}
+            <li>{{ book.title }} - {{ book.author }} 
+                <a href="/delete/{{ book.id }}">Delete</a>
+            </li>
+        {% endfor %}
+    </ul>
+    <a href="/">Back to Home</a>
+</body>
+</html>
