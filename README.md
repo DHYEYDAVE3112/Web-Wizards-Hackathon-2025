@@ -2,7 +2,7 @@
 
 ##  Team Details
 #### Team Name 
-#### WebWizards 2.0
+#### - WebWizards 2.0
 #### Team Leader
 - Name: Dhyey Dave
 - Roll No: 23DCS019
